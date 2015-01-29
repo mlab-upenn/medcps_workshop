@@ -581,7 +581,8 @@ a:hover {
 }
 
 p {
-  margin: 0 0 10px;
+	margin: 0 0 10px;
+	font-size: 18px;
 }
 
 .lead {
@@ -719,7 +720,8 @@ ol ul {
 
 /* WILLY CHANGED LINE-HEIGHT */
 li {
-  line-height: 26px;
+	line-height: 26px;
+	font-size: 18px;
 }
 
 ul.unstyled,
@@ -1825,10 +1827,11 @@ legend + .control-group {
 }
 
 table {
-  max-width: 100%;
-  background-color: transparent;
-  border-collapse: collapse;
-  border-spacing: 0;
+	max-width: 100%;
+	background-color: transparent;
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-size: 18px;
 }
 
 .table {
