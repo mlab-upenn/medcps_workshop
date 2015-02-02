@@ -241,7 +241,8 @@ hr.soften {
   font-size: 60px;
 }
 .subhead p {
-  margin-bottom: 20px;
+	margin-bottom: 20px;
+	font-size: 24px;
 }
 .subhead .navbar {
   display: none;
